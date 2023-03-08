@@ -1,7 +1,7 @@
 ---
-name: 'Android Basics: Persist data with Room template'
+name: 'Android Basics: Persist com.example.inventory.data with Room template'
 about: Describe this issue template's purpose here.
-title: 'Android Basics: Persist data with Room'
+title: 'Android Basics: Persist com.example.inventory.data with Room'
 labels: ''
 assignees: ''
 

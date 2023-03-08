@@ -1,7 +1,7 @@
 ---
-name: 'Android Basics: Read and update data with Room template'
+name: 'Android Basics: Read and update com.example.inventory.data with Room template'
 about: Describe this issue template's purpose here.
-title: 'Android Basics: Read and update data with Room'
+title: 'Android Basics: Read and update com.example.inventory.data with Room'
 labels: ''
 assignees: ''
 
